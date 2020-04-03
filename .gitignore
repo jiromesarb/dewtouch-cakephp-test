@@ -1,12 +1,2 @@
-# CakePHP 3
-
-/vendor/*
-/config/app.php
-
-/logs/*
-!/logs/empty
-
-# CakePHP 2
-
-
 /vendors/*
+/Vendor/*

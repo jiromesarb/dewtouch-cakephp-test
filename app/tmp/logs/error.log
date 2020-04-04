@@ -914,3 +914,43 @@ Stack Trace:
 #2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
 #3 [internal function]: App::shutdown()
 #4 {main}
+2020-04-04 18:39:25 Error: Fatal Error (1): Class 'CakeObject' not found in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Controller/Controller.php, line 57]
+2020-04-04 18:39:25 Error: [FatalErrorException] Class 'CakeObject' not found
+Request URL: /cakephp/dewtouch-cakephp-test/
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-04 18:39:25 Error: Fatal Error (1): Class 'CakeObject' not found in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Controller/Controller.php, line 57]
+2020-04-04 18:39:25 Error: [FatalErrorException] Class 'CakeObject' not found
+Request URL: /cakephp/dewtouch-cakephp-test/
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-04 18:39:27 Error: Fatal Error (1): Class 'CakeObject' not found in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Controller/Controller.php, line 57]
+2020-04-04 18:39:27 Error: [FatalErrorException] Class 'CakeObject' not found
+Request URL: /cakephp/dewtouch-cakephp-test/
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-04 18:39:28 Error: Fatal Error (1): Class 'CakeObject' not found in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Controller/Controller.php, line 57]
+2020-04-04 18:39:28 Error: [FatalErrorException] Class 'CakeObject' not found
+Request URL: /cakephp/dewtouch-cakephp-test/
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'CakeObje...', '/opt/lampp/htdo...', 57, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

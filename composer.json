@@ -1,13 +1,9 @@
 {
     "name": "example-app",
     "require": {
-        "cakephp/cakephp": "2.10.*",
-        "phpseclib/mcrypt_compat": "^1.0"
+        "cakephp/cakephp": "2.10.*"
     },
     "config": {
         "vendor-dir": "Vendor/"
-    },
-    "provide": {
-        "ext-mcrypt": "*"
     }
 }

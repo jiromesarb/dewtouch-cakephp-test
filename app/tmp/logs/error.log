@@ -370,3 +370,547 @@ Stack Trace:
 #2 C:\xampp\htdocs\cake-php\dewtouch-cakephp-test\lib\Cake\Core\App.php(906): App::_checkFatalError()
 #3 [internal function]: App::shutdown()
 #4 {main}
+2020-04-04 13:46:52 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:46:52 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:26 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:26 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:28 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:28 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:29 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:29 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:29 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:29 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:29 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:30 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:30 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:30 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:30 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:30 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:31 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:31 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:31 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:31 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:31 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:31 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:31 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:31 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:32 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:32 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:32 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:32 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 13:47:32 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 13:47:32 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:08:11 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:08:11 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:08:13 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:08:13 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:08:13 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:08:13 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:08:14 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:08:14 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:08:14 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:08:14 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:08:14 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:08:14 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:08:14 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:08:14 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:42:01 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:42:02 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 14:42:03 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 14:42:03 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:27:25 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:27:25 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:27:36 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:27:36 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:27:37 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:27:37 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:27:57 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:27:57 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:33 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:33 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:34 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:34 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:35 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:35 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:35 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:35 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:35 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:35 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:35 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:35 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:35 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:35 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:35 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:35 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:29:36 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:29:36 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:47:49 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:47:49 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:47:50 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:47:50 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:47:50 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:47:50 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:47:50 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:47:50 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:49:51 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:49:51 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:18 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:18 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:18 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:18 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:18 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:18 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:19 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:19 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:19 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:19 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:19 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:19 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:19 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:19 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:19 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:19 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:51:20 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:51:20 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:38 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:38 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:38 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:38 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:39 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:39 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:39 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:39 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:39 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:39 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:39 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:39 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:39 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:39 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:40 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:40 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:40 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:40 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:40 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:40 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 15:52:40 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 15:52:40 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 17:02:05 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 17:02:05 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 17:02:36 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 17:02:36 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 17:02:37 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 17:02:37 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 17:05:10 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 17:05:10 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 17:05:11 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 17:05:11 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2020-04-04 17:05:20 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [/opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Utility/String.php, line 24]
+2020-04-04 17:05:20 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24)
+#1 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): ErrorHandler::handleError(64, 'Cannot use 'Str...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cake-php/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}

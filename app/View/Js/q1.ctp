@@ -32,12 +32,25 @@ The table you start with</div>
 
 <tbody>
 	<tr>
-	<td></td>
-	<td><textarea name="data[1][description]" class="m-wrap  description required" rows="2" ></textarea></td>
-	<td><input name="data[1][quantity]" class=""></td>
-	<td><input name="data[1][unit_price]"  class=""></td>
-	
-</tr>
+		<td></tctrd>
+		<td name="table_data[1][ tctrdescription]" onclick="editDescription(1)">
+			<label id="description_label_1">Hello World</label>
+			<textarea name="data[1][description]" class="m-wrap form-control description required" rows="2" style="display:none;"></textarea>
+		</td>
+		<td><input name="data[1][quantity]" class=" form-control"></td>
+		<td><input name="data[1][unit_price]"  class="form-control"></td>
+	</tr>
+
+
+	<tr>
+		<td></tctrd>
+		<td name="table_data[2][ tctrdescription]" onclick="editDescription(2)">
+			<label id="description_label_2">Hello World</label>
+			<textarea name="data[2][description]" class="m-wrap form-control description required" rows="2" style="display:none;"></textarea>
+		</td>
+		<td><input name="data[2][quantity]" class=" form-control"></td>
+		<td><input name="data[2][unit_price]"  class="form-control"></td>
+	</tr>
 
 </tbody>
 
@@ -51,7 +64,7 @@ Video Instruction</div>
 
 <p style="text-align:left;">
 <video width="78%"   controls>
-  <source src="/video/q3_2.mov">
+  <source src="../app/webroot/video/q3_2.mov">
 Your browser does not support the video tag.
 </video>
 </p>
@@ -68,12 +81,18 @@ $(document).ready(function(){
 
 
 		alert("suppose to add a new row");
-		
+
 
 		});
-
-	
 });
+
+
+function editDescription(ctr){
+	// alert('sad');
+	$('#description_label_' + ctr).hide();
+	// $('#description_label_' + ctr).hide();
+	$('textarea[name="data[' + ctr + '][description]').show().focus();
+}
+
 </script>
 <?php $this->end();?>
-

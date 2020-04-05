@@ -14,10 +14,6 @@
  * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
 
-<<<<<<< HEAD
-App::uses('CakeObject', 'Core');
-class_alias('CakeObject', 'Object');
-=======
 App::uses('CakeLog', 'Log');
 App::uses('Dispatcher', 'Routing');
 App::uses('Router', 'Routing');
@@ -215,4 +211,3 @@ class object {
 	}
 
 }
->>>>>>> 6a21ddfe2de2398407dc72efddff9481deef6c2f

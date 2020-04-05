@@ -1,6 +1,11 @@
 <?php
 	class RecordController extends AppController{
 
+		// Add Cakephp Pagination
+		public $paginate = array(
+			'limit' => 10,
+			'order' => array('Record.id' => 'Desc'),
+		);
 
 		public function index(){
 			ini_set('memory_limit','256M');
@@ -8,17 +13,14 @@
 
 			$this->setFlash('Listing Record page too slow, try to optimize it.');
 
+			// $this->paginate['Record']['conditions']
 
-			// Add Cakephp Pagination
-			// $this->paginate = [
-			// 		'limit' => 5,
-			// ];
-			// $records = $this->paginate($this->Record->find('all'));
-			// echo($records);
+			// $records = $this->Record->find('all');
+			// var_dump('sad');
 
-			$records = $this->Record->find('all');
-
-			$this->set('records',$records);
+			// $this->set('records',$records);
+			// var_dump($this->paginate());
+			$this->set('records', $this->paginate());
 
 
 			$this->set('title',__('List Record'));

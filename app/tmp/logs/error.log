@@ -1534,3 +1534,213 @@ Stack Trace:
 #3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2020-04-05 19:58:43 Error: Fatal Error (4): syntax error, unexpected ',' in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/View/FileUpload/index.ctp, line 21]
+2020-04-05 19:58:43 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 21, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 21, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 14:31:18 Error: Fatal Error (64): Cannot use [] for reading in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 10]
+2020-04-06 14:31:18 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/opt/lampp/htdo...', 10)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/opt/lampp/htdo...', 10, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/opt/lampp/htdo...', 10, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:24:03 Error: Fatal Error (1): Class 'Spreadsheet_Excel_Reader' not found in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 14]
+2020-04-06 15:24:03 Error: [FatalErrorException] Class 'Spreadsheet_Excel_Reader' not found
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:32:36 Error: Fatal Error (1): Class 'Spreadsheet_Excel_Reader' not found in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 14]
+2020-04-06 15:32:36 Error: [FatalErrorException] Class 'Spreadsheet_Excel_Reader' not found
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:34:07 Error: Fatal Error (1): Class 'Spreadsheet_Excel_Reader' not found in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 14]
+2020-04-06 15:34:07 Error: [FatalErrorException] Class 'Spreadsheet_Excel_Reader' not found
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Class 'Spreadsh...', '/opt/lampp/htdo...', 14, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:35:04 Error: Fatal Error (1): Call to a member function library() on null in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 14]
+2020-04-06 15:35:04 Error: [FatalErrorException] Call to a member function library() on null
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/opt/lampp/htdo...', 14, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/opt/lampp/htdo...', 14, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:39:38 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 5]
+2020-04-06 15:39:38 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:41:05 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 5]
+2020-04-06 15:41:05 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:41:05 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 5]
+2020-04-06 15:41:05 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 5, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 15:59:24 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/View/FileUpload/index.ctp, line 17]
+2020-04-06 15:59:24 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 17, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 17, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:00:07 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/View/FileUpload/index.ctp, line 17]
+2020-04-06 16:00:07 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 17, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 17, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:04:07 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/View/FileUpload/index.ctp, line 16]
+2020-04-06 16:04:07 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 16, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 16, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:11:58 Error: Fatal Error (64): Can't use method return value in write context in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 24]
+2020-04-06 16:11:58 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/opt/lampp/htdo...', 24)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/opt/lampp/htdo...', 24, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/opt/lampp/htdo...', 24, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:14:12 Error: Fatal Error (1): Cannot use object of type Spreadsheet_Excel_Reader as array in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 16]
+2020-04-06 16:14:12 Error: [FatalErrorException] Cannot use object of type Spreadsheet_Excel_Reader as array
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Cannot use obje...', '/opt/lampp/htdo...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot use obje...', '/opt/lampp/htdo...', 16, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Cannot use obje...', '/opt/lampp/htdo...', 16, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:17:07 Error: Fatal Error (4): syntax error, unexpected '}' in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 27]
+2020-04-06 16:17:07 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:17:23 Error: Fatal Error (4): syntax error, unexpected '}' in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 27]
+2020-04-06 16:17:24 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:17:28 Error: Fatal Error (4): syntax error, unexpected '}' in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 27]
+2020-04-06 16:17:28 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:20:00 Error: Fatal Error (1): Call to undefined method Spreadsheet_Excel_Reader::dumptoarray() in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 16]
+2020-04-06 16:20:00 Error: [FatalErrorException] Call to undefined method Spreadsheet_Excel_Reader::dumptoarray()
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:21:03 Error: Fatal Error (1): Call to undefined method Spreadsheet_Excel_Reader::dumptoarray() in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 16]
+2020-04-06 16:21:03 Error: [FatalErrorException] Call to undefined method Spreadsheet_Excel_Reader::dumptoarray()
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:22:15 Error: Fatal Error (1): Call to undefined method Spreadsheet_Excel_Reader::dumptoarray() in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 16]
+2020-04-06 16:22:15 Error: [FatalErrorException] Call to undefined method Spreadsheet_Excel_Reader::dumptoarray()
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2020-04-06 16:22:17 Error: Fatal Error (1): Call to undefined method Spreadsheet_Excel_Reader::dumptoarray() in [/opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/app/Controller/FileUploadController.php, line 16]
+2020-04-06 16:22:17 Error: [FatalErrorException] Call to undefined method Spreadsheet_Excel_Reader::dumptoarray()
+Request URL: /cakephp/dewtouch-cakephp-test/FileUpload
+Stack Trace:
+#0 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#2 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/opt/lampp/htdo...', 16, Array)
+#3 /opt/lampp/htdocs/cakephp/dewtouch-cakephp-test/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

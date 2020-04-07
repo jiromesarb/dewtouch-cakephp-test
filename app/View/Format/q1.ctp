@@ -9,6 +9,11 @@
 <?php echo __("Hi, please choose a type below:")?>
 <br><br>
 
+<!--
+
+Question 2 Complete: Changed pop up message to mouse hover. I used the tooltip to achieve this question
+
+-->
 <!-- Rearranged tag to read the html tags clearly -->
 <?php
 

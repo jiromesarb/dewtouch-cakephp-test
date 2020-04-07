@@ -7,6 +7,12 @@
 			exit;
 		}
 
+	    /*
+
+	    Question 5 Complete: I'm not sure If i did the right thing here but I did my best to understand it.
+		I use the data from Order and Portion Table to answer this question
+
+	    */
 		public function index(){
 
 			$this->setFlash('Multidimensional Array.');

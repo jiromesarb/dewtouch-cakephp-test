@@ -78,4 +78,40 @@ class DATABASE_CONFIG {
 		'prefix'     => '',
 		'encoding'   => 'utf8',
 	);
+
+	// Database for Member
+	public $cakephp_member = array(
+		'datasource' => 'Database/Mysql',
+		'persistent' => false,
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => '',
+		'database' => 'cakephp_member',
+		'prefix' => '',
+		//'encoding' => 'utf8',
+	);
+
+	// Database for Transaction
+	public $cakephp_transaction = array(
+		'datasource' => 'Database/Mysql',
+		'persistent' => false,
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => '',
+		'database' => 'cakephp_transaction',
+		'prefix' => '',
+		//'encoding' => 'utf8',
+	);
+
+	// Database for Transaction
+	public $cakephp_transaction_item = array(
+		'datasource' => 'Database/Mysql',
+		'persistent' => false,
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => '',
+		'database' => 'cakephp_transaction_item',
+		'prefix' => '',
+		//'encoding' => 'utf8',
+	);
 }

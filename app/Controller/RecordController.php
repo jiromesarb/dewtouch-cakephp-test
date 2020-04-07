@@ -1,12 +1,18 @@
 <?php
 	class RecordController extends AppController{
 
+
+		/*
+
+		Question 1 Complete: What I did here is that I used the cakephp pagination to optimize the query.
+
+		*/
+		
 		// Add Cakephp Pagination
 		public $paginate = array(
 			'limit' => 10,
 			'order' => array('Record.id' => 'Desc'),
 		);
-
 		public function index(){
 			ini_set('memory_limit','256M');
 			set_time_limit(0);

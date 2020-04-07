@@ -3,6 +3,11 @@ App::import('Vendor', 'php-excel-reader/excel_reader2');
 
 class FileUploadController extends AppController {
 
+	/*
+
+	Question 4 Complete: I used php-excel-header plugin here to complete the task here.
+
+	*/
 	public function index() {
 		$this->set('title', __('File Upload Answer'));
 

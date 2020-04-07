@@ -74,6 +74,15 @@ Your browser does not support the video tag.
 
 <?php $this->start('script_own');?>
 <script>
+
+
+
+/*
+
+Question 3 Complete: I don't know if i did the right way here but it worked! ^_^
+
+*/
+
 let ctr = 1;
 $(document).ready(function(){
 

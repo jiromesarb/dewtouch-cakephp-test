@@ -11,6 +11,8 @@
 
 	    Question 5 Complete: I'm not sure If i did the right thing here but I did my best to understand it.
 		I use the data from Order and Portion Table to answer this question
+		I multiple the ingredient value to order value to quantity to some the exact value/price of the ingredient value
+		if the Dishes has the same ingredient, what i did is I added the value/price of the ingredient on the previous ingredient value
 
 	    */
 		public function index(){
